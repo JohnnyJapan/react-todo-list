@@ -7,19 +7,6 @@ const App = () => {
   const [todoEditing, setTodoEditing] = React.useState(null);
   const [editingText, setEditingText] = React.useState("");
 
-  // React.useEffect(() => {
-  //   const json = localStorage.getItem("todos");
-  //   const loadedTodos = JSON.parse(json);
-  //   if (loadedTodos) {
-  //     setTodos(loadedTodos);
-  //   }
-  // }, []);
-
-  // React.useEffect(() => {
-  //   const json = JSON.stringify(todos);
-  //   localStorage.setItem("todos", json);
-  // }, [todos]);
-
   function handleSubmit(e) {
     e.preventDefault();
 
