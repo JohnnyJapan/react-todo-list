@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JohnnyJapan/react-todo-list/static/css/main.6d49ddcd.chunk.css",
+    "main.js": "/JohnnyJapan/react-todo-list/static/js/main.ae68075c.chunk.js",
+    "main.js.map": "/JohnnyJapan/react-todo-list/static/js/main.ae68075c.chunk.js.map",
+    "runtime-main.js": "/JohnnyJapan/react-todo-list/static/js/runtime-main.49647057.js",
+    "runtime-main.js.map": "/JohnnyJapan/react-todo-list/static/js/runtime-main.49647057.js.map",
+    "static/js/2.63960e46.chunk.js": "/JohnnyJapan/react-todo-list/static/js/2.63960e46.chunk.js",
+    "static/js/2.63960e46.chunk.js.map": "/JohnnyJapan/react-todo-list/static/js/2.63960e46.chunk.js.map",
+    "static/js/3.f47135e7.chunk.js": "/JohnnyJapan/react-todo-list/static/js/3.f47135e7.chunk.js",
+    "static/js/3.f47135e7.chunk.js.map": "/JohnnyJapan/react-todo-list/static/js/3.f47135e7.chunk.js.map",
+    "index.html": "/JohnnyJapan/react-todo-list/index.html",
+    "static/css/main.6d49ddcd.chunk.css.map": "/JohnnyJapan/react-todo-list/static/css/main.6d49ddcd.chunk.css.map",
+    "static/js/2.63960e46.chunk.js.LICENSE.txt": "/JohnnyJapan/react-todo-list/static/js/2.63960e46.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49647057.js",
+    "static/js/2.63960e46.chunk.js",
+    "static/css/main.6d49ddcd.chunk.css",
+    "static/js/main.ae68075c.chunk.js"
+  ]
+}
